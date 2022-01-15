@@ -32,5 +32,5 @@ some CSS as well.  Some HTML/CSS research might be required.
 - Arial font
 - 200px image floated right
 - 3px solid gray borders
-- 960px content width
+- 960px content width, centered
 - Horizontally centered, 20px margins at top and bottom
