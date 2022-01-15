@@ -2,7 +2,7 @@
 
 5 points
 
-**DUE: Thursday, July 1 by 5:30pm**
+**DUE: Friday, January 21 by 5:30pm**
 
 For easiest viewing of these instructions, view online on Github.com or use a Markdown previewer.
 
