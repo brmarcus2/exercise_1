@@ -6,6 +6,7 @@
 
 For easiest viewing of these instructions, view online on Github.com or use a Markdown previewer.
 
+
 ### Instructions
 
 This assignment will help you get practice with HTML and
